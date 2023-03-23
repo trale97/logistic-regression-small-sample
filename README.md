@@ -9,7 +9,8 @@ A synthesis of different logistic regression methods to deal with a small sample
 The repository consists of the codes for the **Simulation Study** to compare the three methods: Exact Logistic Regression, Permutation of Regressor Residual test, and Firth's Penalized Logistic Regression. 
 
 ## Simulation Study
-The population model $log(\frac{\pi_i}{1+\pi_1})=\beta_1x_1 + x_2$
+The population model 
+$$log(\frac{\pi_i}{1+\pi_1})=-1+\beta_1x_1 + x_2$$
 
 Conditions
 - Sample size: 20
