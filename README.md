@@ -11,6 +11,7 @@ The repository consists of the codes for the **Simulation Study** to compare the
 ## Simulation Study
 The population model
 $$log(\frac{\pi_i}{1-\pi_i}) = -1 + \beta_1*x_1 + 1*x_2$$
+
 Conditions
 - Sample size: 20
 - Type of conditioning variable $x_2$: binary and continuous
