@@ -15,3 +15,4 @@ Conditions
 - Sample size: 20
 - Type of conditioning variable $x_2$: binary and continuous
 - Population value of parameter $\beta_1$: 0.075, 2, 3
+- Population model $\beta_1*x_1 + 1*x_2$
